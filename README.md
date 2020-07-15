@@ -1,4 +1,4 @@
-### Hi I'm Jamiul Alam 👋
+### Hi, I'm Jamiul Alam 👋
 
 ## I am Software Development Engineer.
 
