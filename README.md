@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 
+[![Jamiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiul)](https://github.com/jamiul)
+
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
